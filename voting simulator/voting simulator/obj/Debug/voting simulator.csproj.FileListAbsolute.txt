@@ -1,0 +1,10 @@
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\bin\Debug\voting simulator.exe.config
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\bin\Debug\voting simulator.exe
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\bin\Debug\voting simulator.pdb
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting simulator.csprojAssemblyReference.cache
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting_simulator.Form1.resources
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting_simulator.Properties.Resources.resources
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting simulator.csproj.GenerateResource.cache
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting simulator.csproj.CoreCompileInputs.cache
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting simulator.exe
+C:\Users\G Booth\source\repos\voting simulator\voting simulator\obj\Debug\voting simulator.pdb
